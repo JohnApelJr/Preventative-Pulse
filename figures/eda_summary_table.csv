@@ -1,0 +1,19 @@
+Variable,Type,Missing,Unique,Summary,HD Rate Range
+HeartDisease,Target,0,2,Mode: No (91%),—
+BMI,Numeric,0,3604,"μ=28.3, σ=6.4, range [12–95]",0.0% – 100.0%
+Smoking,Binary,0,2,Mode: No (59%),6.0% – 12.2%
+AlcoholDrinking,Binary,0,2,Mode: No (93%),5.2% – 8.8%
+Stroke,Binary,0,2,Mode: No (96%),7.5% – 36.4%
+PhysicalHealth,Numeric,0,31,"μ=3.4, σ=8.0, range [0–30]",5.8% – 28.9%
+MentalHealth,Numeric,0,31,"μ=3.9, σ=8.0, range [0–30]",5.8% – 13.3%
+DiffWalking,Binary,0,2,Mode: No (86%),6.3% – 22.6%
+Sex,Binary,0,2,Mode: Female (52%),6.7% – 10.6%
+AgeCategory,Multi-Class,0,13,Mode: 65-69 (11%),0.6% – 22.6%
+Race,Multi-Class,0,6,Mode: White (77%),3.3% – 10.4%
+Diabetic,Multi-Class,0,4,Mode: No (84%),4.2% – 22.0%
+PhysicalActivity,Binary,0,2,Mode: Yes (78%),7.1% – 13.8%
+GenHealth,Multi-Class,0,5,Mode: Very good (36%),2.2% – 34.1%
+SleepTime,Numeric,0,24,"μ=7.1, σ=1.4, range [1–24]",0.0% – 33.3%
+Asthma,Binary,0,2,Mode: No (87%),8.1% – 11.5%
+KidneyDisease,Binary,0,2,Mode: No (96%),7.8% – 29.3%
+SkinCancer,Binary,0,2,Mode: No (91%),7.7% – 16.7%

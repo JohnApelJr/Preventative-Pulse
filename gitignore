@@ -1,0 +1,15 @@
+# Data (2022 file is 139MB — too large for GitHub)
+data/heart_2022_with_nans.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+venv/
