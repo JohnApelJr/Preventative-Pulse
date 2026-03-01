@@ -130,12 +130,6 @@ Python · pandas · NumPy · scikit-learn · imbalanced-learn (SMOTE) · XGBoost
 
 ---
 
-## Context
-
-This project was completed as part of the Applied Data Science M.S. program at Syracuse University. The team included Tyler Gabriele, Brian Lee, Richard Dickson, and John Apel. My contributions focused on data visualization, exploratory analysis, and reporting.
-
----
-
 ## License
 
 Dataset published by [Kamil Pytlak](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease) under CC BY-SA 4.0. Code in this repository is MIT licensed.
